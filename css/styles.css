@@ -1,0 +1,88 @@
+body {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.caption {
+  text-align: center;
+}
+
+.caption h2 {
+  -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+  font-size: 5rem;
+  margin: 8.6rem 0 0 0; 
+}
+
+.caption h2 span {
+  color: rgb(252, 103, 68);
+}
+
+.caption p {
+  font-size: 1.6rem;
+  margin: 0 0 90px 0;
+  color: rgb(65, 65, 65);
+}
+
+.col-md-3 {
+  text-align: center;
+  display: inline-block;
+  max-width: 22%;
+  padding: 50px 30px;
+  margin: 15px;
+}
+
+.col-md-3:hover {
+  box-shadow: 0px 0px 35px 0px rgba(50,50,50,0.30);
+}
+
+.fa {
+  color: #fff;
+}
+
+.fa-camera-retro {
+  transform: rotate(-25deg);
+}
+
+.col-md-3 .btn {
+  text-decoration: none;
+  border-radius: 30px;
+  background-color: #fff;
+  box-shadow: 0px 0px 35px 0px rgba(20, 20, 20, 0.20);
+  position: relative;
+  bottom: -55px;
+  padding: 12px 50px;
+  font-size: 1.5rem;
+}
+
+.col-md-3 .btn span {
+  margin-right: 5px;
+}
+
+.col-md-3 p {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.col-md-3 h3 {
+  font-weight: 600;
+  color: #fff;
+  font-size: 2rem;
+}
+
+.first {
+  background-color: rgb(78, 178, 247);
+}
+
+.second {
+  background: rgb(192, 73, 248);
+}
+
+.third {
+  background: rgb(129, 126, 255);
+}
+
+.fourth {
+  background: rgb(247, 71, 112);
+}
